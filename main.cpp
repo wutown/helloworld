@@ -3,4 +3,5 @@
 int main()
 {
   printf("helloworld\n");
+  printf("hi! I am James.\n");
 }
