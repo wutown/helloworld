@@ -3,5 +3,8 @@
 int main()
 {
   printf("helloworld\n");
+  
+  printf("hi! I am norman.\n");
+  printf("hi! I am norman.\n");
   printf("hi! I am norman.\n");
 }
